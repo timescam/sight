@@ -8,7 +8,7 @@ Darkula color scheme from the JetBrains family of IDEs
 .hljs {
   display: block;
   padding: 0.5em;
-  background: #2b2b2b;
+  background: #282A36;
   -webkit-text-size-adjust: none;
 }
 
@@ -20,7 +20,7 @@ Darkula color scheme from the JetBrains family of IDEs
 .aspectj .hljs-function,
 .css .hljs-function .hljs-preprocessor,
 .hljs-pragma {
-  color: #ff79c6;
+  color: #f8f8f2;
 }
 
 .hljs-strongemphasis,
@@ -77,7 +77,7 @@ Darkula color scheme from the JetBrains family of IDEs
 .css .hljs-tag,
 .css .unit,
 .css .hljs-important {
-  color: #ffb86c;
+  color: #ff79c6;
 }
 
 .hljs-function .hljs-keyword,
@@ -86,7 +86,7 @@ Darkula color scheme from the JetBrains family of IDEs
 .hljs-constant,
 .hljs-typename,
 .css .hljs-attribute {
-  color: #ffb86c;
+  color: #8be9fd;
 }
 
 .hljs-variable,
